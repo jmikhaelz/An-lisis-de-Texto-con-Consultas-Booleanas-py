@@ -33,8 +33,4 @@ En el análisis de grandes volúmenes de texto, es crucial contar con herramient
 ### Conclusión
 
 La interfaz gráfica para el sistema de RI booleano es una herramienta esencial para cualquier persona que necesite analizar grandes volúmenes de texto de manera eficiente. Al abordar la problemática de las consultas booleanas manuales, esta interfaz proporciona una solución práctica y accesible para la recuperación de información.
-¡Listo! Ahora puedes copiar y pegar todo el contenido en tu archivo README.md. ¿Hay algo más en lo que pueda ayudarte?
 
-Editar en Pages
-
-El contenido generado por la inteligencia artificial puede ser incorrecto
